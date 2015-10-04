@@ -1,0 +1,7 @@
+#! /bin/sh
+
+agx_util -dump-traces > /dev/null
+
+
+
+

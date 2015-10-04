@@ -1,0 +1,6 @@
+#! /bin/sh
+
+# $1 - chip name e.g., j82
+cd $WORKROOT/_kcb
+
+sudo xcrun -sdk iphoneos.internal kcinstall -k build/development.$1/kernelcache.development.$1

@@ -1,0 +1,5 @@
+#! /bin/sh
+
+agx_util -start-tracing gpu sku host
+
+
