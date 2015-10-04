@@ -1,7 +1,0 @@
-#! /bin/sh
-
-#agx_util -stop-tracing
-trace -d
-
-
-

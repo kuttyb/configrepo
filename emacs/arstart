@@ -1,3 +1,0 @@
-#! /bin/sh
-
-artrace --type profile=gfx

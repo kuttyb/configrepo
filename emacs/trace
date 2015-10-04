@@ -1,9 +1,0 @@
-#! /bin/sh
-
-#agx_util -start-tracing host gpu sku scheduler pwr
-agx_util -start-tracing all
-
-
-
-
-

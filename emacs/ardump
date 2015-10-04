@@ -1,4 +1,0 @@
-#! /bin/sh
-
-agx_util -extract-trace $1
-
