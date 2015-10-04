@@ -1,0 +1,7 @@
+<#if package?? && package != "">
+package ${package};
+
+</#if>
+public class ${name} {
+
+}

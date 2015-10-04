@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='2'>
+    <iu id='net.sourceforge.astyleclipse.feature.feature.group' name='Astyleclipse Feature' version='1.0.101.v200610192129'>
+      <repositories size='1'>
+        <repository location='http://astyleclipse.sourceforge.net/update'/>
+      </repositories>
+    </iu>
+    <iu id='epp.package.cpp' name='Eclipse IDE for C/C++ Developers' version='1.4.2.20120213-0813'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/indigo'/>
+        <repository location='http://marketplace.eclipse.org/repo/'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
