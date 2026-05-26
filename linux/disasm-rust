@@ -1,0 +1,3 @@
+#! /bin/sh
+
+cargo objdump -- --disassemble $1 > $1.asm

@@ -1,0 +1,4 @@
+#! /bin/sh
+
+which emacs | xargs ls -ali
+
