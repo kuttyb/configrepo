@@ -6,7 +6,7 @@
   },
   {
     "key": "ctrl+alt+f",
-    "command": "editor.action.referenceSearch.trigger",
-    "when": "editorHasReferenceProvider && editorTextFocus && !inReferenceSearchEditor && !isInEmbeddedEditor"
+    "command": "references-view.findReferences",
+    "when": "editorHasReferenceProvider && editorTextFocus && !isInEmbeddedEditor"
   }
 ]
