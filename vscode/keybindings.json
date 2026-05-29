@@ -24,6 +24,15 @@
   {
     "key": "alt+right",
     "command": "-workbench.action.navigateForward"
+  },
+  {
+    "key": "ctrl+6",
+    "command": "workbench.action.gotoSymbol"
+  },
+  {
+    "key": "ctrl+shift+o",
+    "command": "-workbench.action.gotoSymbol"
   }
 ]
+
 
