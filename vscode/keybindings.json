@@ -26,13 +26,26 @@
     "command": "-workbench.action.navigateForward"
   },
   {
-    "key": "ctrl+6",
-    "command": "workbench.action.gotoSymbol"
+    "key": "ctrl+shift+o",
+    "command": "workbench.action.showAllSymbols"
   },
   {
-    "key": "ctrl+shift+o",
-    "command": "-workbench.action.gotoSymbol"
+    "key": "alt+shift+r",
+    "command": "workbench.action.tasks.runTask",
+    "args": "nim: run active file",
+    "when": "editorTextFocus && editorLangId == nim"
+  },
+  {
+    "key": "alt+shift+d",
+    "command": "workbench.action.debug.start",
+    "when": "editorTextFocus && editorLangId == nim"
+  },
+  {
+    "key": "ctrl+6",
+    "command": "workbench.action.gotoSymbol"
   }
 ]
+
+
 
 
