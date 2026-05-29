@@ -8,5 +8,22 @@
     "key": "ctrl+alt+f",
     "command": "references-view.findReferences",
     "when": "editorHasReferenceProvider && editorTextFocus && !isInEmbeddedEditor"
+  },
+  {
+    "key": "alt+shift+left",
+    "command": "workbench.action.navigateBack"
+  },
+  {
+    "key": "alt+shift+right",
+    "command": "workbench.action.navigateForward"
+  },
+  {
+    "key": "alt+left",
+    "command": "-workbench.action.navigateBack"
+  },
+  {
+    "key": "alt+right",
+    "command": "-workbench.action.navigateForward"
   }
 ]
+
