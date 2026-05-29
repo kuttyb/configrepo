@@ -1,0 +1,3 @@
+# That is where they are stored for a user
+cp /home/kuttybanerjee/.config/Code/User/keybindings.json .
+
