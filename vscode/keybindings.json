@@ -43,9 +43,10 @@
   {
     "key": "ctrl+6",
     "command": "workbench.action.gotoSymbol"
+  },
+  {
+    "key": "ctrl+alt+a",
+    "command": "editor.action.goToBracket",
+    "when": "editorTextFocus"
   }
 ]
-
-
-
-
